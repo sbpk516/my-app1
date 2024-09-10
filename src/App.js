@@ -23,4 +23,3 @@ function App() {
 }
 
 export default App;
-// just commented to check the clone and commit
